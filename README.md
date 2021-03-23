@@ -1,5 +1,8 @@
 # Backend challenge
+
+## Database schema
 database UML is here: [SCHEMA:backend_ch.uml](./SCHEMA:backend_ch.uml)
+![Schema.png](./Schema.png)
 
 ## How to start
  - run `composer install`
